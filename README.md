@@ -1,5 +1,5 @@
-# SimpleMan.Utilities [Download](https://github.com/IgorChebotar/Utilities/releases)
-Standard utilities for any project on Unity engine. 
+# SimpleMan.StateMachine-BlackboardBased [Download](https://github.com/IgorChebotar/StateMachine-BlackboardBased/releases)
+Blackboard-based state machine with async operation supporting
 
 **Authors:** [Igor-Valerii Chebotar](https://www.linkedin.com/in/igor-chebotar/) 
 <br>
